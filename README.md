@@ -1,10 +1,6 @@
 # Browser Extensions
 
-> Note: This is a work-in-progress.
-
-This is a monorepo[^1] of my browser extensions.
-
-The aim of this monorepo is to make maintaining browser extensions easier.
+This monorepo[^1] contains the source code for my browser extensions. Its aim is to make maintenance easier.
 
 ## Contents
 
@@ -28,12 +24,14 @@ The aim of this monorepo is to make maintaining browser extensions easier.
 | <img src="assets/whatsapp-96x96.png" width="48" height="48"> | [WhatsApp Pinned](/whatsapp-pinned/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | <img src="text-revealer/assets/logo-cropped.png"  height="48"> | [Text Revealer](/text-revealer/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 
-## Repository Secrets
+## Requirements
 
-Required for signing extensions prior releasing a new version. These can be found here: [Manage API Keys](https://addons.mozilla.org/en-US/developers/addon/api/key/).
+Two repository secrets are required to sign extensions prior releasing a new version with [web-ext](https://github.com/mozilla/web-ext).
 
 - JWT Issuer: `FIREFOX_JWT_ISSUER`
 - JWT Secret: `FIREFOX_JWT_SECRET`
+
+Visit the [Manage API Keys](https://addons.mozilla.org/en-US/developers/addon/api/key/) page to obtain yours.
 
 ## © License
 
