@@ -10,6 +10,7 @@ Monorepo of my browser extensions.
   - [Table of Contents](#table-of-contents)
   - [Repository Secrets](#repository-secrets)
   - [Previous Repositories](#previous-repositories)
+  - [Previous Repositories Table](#previous-repositories-table)
   - [🦊 Brave Search](#-brave-search)
   - [🟩 ChatGPT in Sidebar](#-chatgpt-in-sidebar)
   - [🟦 Discord in Sidebar](#-discord-in-sidebar)
@@ -53,6 +54,27 @@ Required for signing extensions prior releasing a new version. These can be foun
 - [TickTick Pinned](https://github.com/semanticdata/firefox-ticktick-pinned)
 - [WhatsApp in Sidebar](https://github.com/semanticdata/firefox-whatsapp-in-sidebar)
 - [WhatsApp Pinned](https://github.com/semanticdata/firefox-whatsapp-pinned)
+
+## Previous Repositories Table
+
+| Extension              | Link                                                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [Brave Search](/brave-search/)           | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| ChatGPT in Sidebar     | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Discord in Sidebar     | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Fastmail in Sidebar    | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Gemini in Sidebar      | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Hacker News in Sidebar | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Llama Life in Sidebar  | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Meta AI in Sidebar     | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| New Tab Bookmarks      | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Notekeeper             | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Sorry, Minnesota Only  | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| Telegram in Sidebar    | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| TickTick in Sidebar    | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| TickTick Pinned        | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| WhatsApp in Sidebar    | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| WhatsApp Pinned        | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 
 ## 🦊 Brave Search
 
