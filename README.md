@@ -4,7 +4,7 @@
 
 This is a monorepo of my browser extensions. The aim of the monorepo is to make maintenance easier.
 
-<!-- 
+<!--
 | Extension / Source Code | Links |
 | --- | --- |
 | [Brave Search](/brave-search/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |

@@ -40,6 +40,5 @@
   "browser_action": {
     "48": "src/icons/48x48.png",
     "96": "src/icons/96x96.png"
-    }
   }
 }
