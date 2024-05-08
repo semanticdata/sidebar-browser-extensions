@@ -4,10 +4,12 @@
 
 This is a monorepo[^1] of my browser extensions.
 
-The aim of this monorepo is to make maintaining browser extensions easier. Here's a breakdown of what's hosted here:
+The aim of this monorepo is to make maintaining browser extensions easier.
+
+## Contents
 
 |  |  |  |
-| --- | --- | --- |
+| :---: | --- | --- |
 | <img src="assets/brave-96x96.png" width="48" height="48"> | [Brave Search](/brave-search/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | <img src="assets/chatgpt-96x96.png" width="48" height="48"> | [ChatGPT in Sidebar](/chatgpt-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | <img src="assets/discord-96x96.png" width="48" height="48"> | [Discord in Sidebar](/discord-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
