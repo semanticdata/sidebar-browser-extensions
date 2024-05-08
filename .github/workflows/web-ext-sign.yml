@@ -22,16 +22,31 @@ jobs:
           cmd: build
           source: src
 
+      # Signs the extension with Mozilla's web-ext signer
+      # See https://github.com/mozilla/web-ext#signing-an-extension
       - name: Sign web-ext
         id: web-ext-sign
         uses: kewisch/action-web-ext@v1
         with:
           cmd: sign
           source: ${{ steps.web-ext-build.outputs.target }}
-          channel: listed
+          channel: listed # Defaults to "release", but "listed" is more appropriate for browser extensions
           apiKey: ${{ secrets.FIREFOX_JWT_ISSUER }}
           apiSecret: ${{ secrets.FIREFOX_JWT_SECRET }}
-          timeout: 900000
+          timeout: 900000 # 15 minute timeout to account for potentially slow signing
+
+      # Publish the signed extension to a GitHub release
+      # See https://github.com/softprops/action-gh-release#usage
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          files: ${{ steps.web-ext-sign.outputs.target }}
+          tag_name: ${{ github.ref }}
+          release_name: Signed extension for ${{ github.ref }}
+          body: |
+            Signed extension for version ${{ github.ref }}
 
       - name: Release
         uses: softprops/action-gh-release@v2
