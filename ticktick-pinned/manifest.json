@@ -19,13 +19,15 @@
   },
   "icons": {
     "16": "src/icons/16x16.png",
-    "32": "src/icons/32x32.png"
+    "32": "src/icons/32x32.png",
+    "96": "src/icons/96x96.png"
   },
   "permissions": ["tabs"],
   "browser_action": {
     "default_icon": {
       "16": "src/icons/16x16.png",
-      "32": "src/icons/32x32.png"
+      "32": "src/icons/32x32.png",
+      "96": "src/icons/96x96.png"
     },
     "default_title": "Toggle pinned TickTick.",
     "default_area": "navbar"
