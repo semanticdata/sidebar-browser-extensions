@@ -61,6 +61,7 @@ Required for signing extensions prior releasing a new version. These can be foun
 Adds Brave Search as a search engine option within Firefox. Also includes keyword @brave as a search shortcut.
 
 Visit the [README](brave-search/README.md).
+Visit the [directory](brave-search).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/)
 
