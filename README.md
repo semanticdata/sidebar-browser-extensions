@@ -60,7 +60,7 @@ Required for signing extensions prior releasing a new version. These can be foun
 
 Adds Brave Search as a search engine option within Firefox. Also includes keyword @brave as a search shortcut.
 
-Visit the [README](brave-search/README.md).
+Visit the [README](brave-search/).
 Visit the [directory](brave-search).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/)
@@ -69,7 +69,7 @@ Visit the [directory](brave-search).
 
 Opens ChatGPT within the Firefox sidebar.
 
-Visit the [README](chatgpt-in-sidebar/README.md).
+Visit the [README](chatgpt-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-in-sidebar/)
 
@@ -77,7 +77,7 @@ Visit the [README](chatgpt-in-sidebar/README.md).
 
 Display Discord within the Firefox sidebar.
 
-Visit the [README](discord-in-sidebar/README.md).
+Visit the [README](discord-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/discord-in-sidebar/)
 
@@ -85,7 +85,7 @@ Visit the [README](discord-in-sidebar/README.md).
 
 Display Fastmail within the Firefox sidebar.
 
-Visit the [README](fastmail-in-sidebar/README.md).
+Visit the [README](fastmail-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/fastmail-in-sidebar/)
 
@@ -93,7 +93,7 @@ Visit the [README](fastmail-in-sidebar/README.md).
 
 Display Gemini within the Firefox sidebar.
 
-Visit the [README](gemini-in-sidebar/README.md).
+Visit the [README](gemini-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/gemini-in-sidebar/)
 
@@ -101,7 +101,7 @@ Visit the [README](gemini-in-sidebar/README.md).
 
 Display Hacker News within the Firefox sidebar.
 
-Visit the [README](hacker-news-in-sidebar/README.md).
+Visit the [README](hacker-news-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-in-sidebar/)
 
@@ -109,7 +109,7 @@ Visit the [README](hacker-news-in-sidebar/README.md).
 
 Display Llama Life within the Firefox sidebar.
 
-Visit the [README](llamalife-in-sidebar/README.md).
+Visit the [README](llamalife-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/llama-life-in-sidebar/)
 
@@ -117,7 +117,7 @@ Visit the [README](llamalife-in-sidebar/README.md).
 
 Display Meta AI within the Firefox sidebar.
 
-Visit the [README](metaai-in-sidebar/README.md).
+Visit the [README](metaai-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/meta-ai-in-sidebar/)
 
@@ -125,7 +125,7 @@ Visit the [README](metaai-in-sidebar/README.md).
 
 A new tab replacement for your browser.
 
-Visit the [README](new-tab-bookmarks/README.md).
+Visit the [README](new-tab-bookmarks/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/new-tab-bookmarks/)
 
@@ -133,7 +133,7 @@ Visit the [README](new-tab-bookmarks/README.md).
 
 An extension that transforms the New Tab into a minimalist, auto-saving text editor.
 
-Visit the [README](notekeeper/README.md).
+Visit the [README](notekeeper/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/new-tab-note/)
 
@@ -141,7 +141,7 @@ Visit the [README](notekeeper/README.md).
 
 Removes all states starting with "M" except Minnesota within most dropdown menus. This allows you to press "M" in your keyboard and go directly to it, instead of any other state options.
 
-Visit the [README](brave-search/README.md).
+Visit the [README](brave-search/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/sorry-minnesota-only/)
 
@@ -149,7 +149,7 @@ Visit the [README](brave-search/README.md).
 
 Display Telegram within the Firefox sidebar.
 
-Visit the [README](telegram-in-sidebar/README.md).
+Visit the [README](telegram-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/telegram-in-sidebar/)
 
@@ -157,7 +157,7 @@ Visit the [README](telegram-in-sidebar/README.md).
 
 Display TickTick within the Firefox sidebar.
 
-Visit the [README](ticktick-in-sidebar/README.md).
+Visit the [README](ticktick-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/ticktick-in-sidebar/)
 
@@ -165,7 +165,7 @@ Visit the [README](ticktick-in-sidebar/README.md).
 
 Opens TickTick in a pinned tab.
 
-Visit the [README](ticktick-pinned/README.md).
+Visit the [README](ticktick-pinned/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/ticktick-pinned/)
 
@@ -173,7 +173,7 @@ Visit the [README](ticktick-pinned/README.md).
 
 Display WhatsApp within the Firefox sidebar.
 
-Visit the [README](ticktick-in-sidebar/README.md).
+Visit the [README](ticktick-in-sidebar/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-in-sidebar/)
 
@@ -181,7 +181,7 @@ Visit the [README](ticktick-in-sidebar/README.md).
 
 Opens WhatsApp in a pinned tab.
 
-Visit the [README](ticktick-pinned/README.md).
+Visit the [README](ticktick-pinned/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-pinned/)
 
