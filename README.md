@@ -48,9 +48,7 @@ Required for signing extensions prior releasing a new version. These can be foun
 - [New Tab Bookmarks](https://github.com/semanticdata/new-tab-bookmarks)
 - [Notekeeper](https://github.com/semanticdata/notekeeper)
 - [Sorry, Minnesota Only](https://github.com/semanticdata/firefox-sorry-minnesota-only)
-<!-- - [TabSpace](https://github.com/semanticdata/firefox-tabspace) -->
 - [Telegram in Sidebar](https://github.com/semanticdata/firefox-telegram-in-sidebar)
-<!-- - [Text Revealer](https://github.com/semanticdata/text-revealer-firefox-extension) -->
 - [TickTick in Sidebar](https://github.com/semanticdata/firefox-ticktick-in-sidebar)
 - [TickTick Pinned](https://github.com/semanticdata/firefox-ticktick-pinned)
 - [WhatsApp in Sidebar](https://github.com/semanticdata/firefox-whatsapp-in-sidebar)
