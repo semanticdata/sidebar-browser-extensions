@@ -1,10 +1,6 @@
 # ![text revealer logo](assets/logo.png)
 
-![Mozilla Add-on Version](https://img.shields.io/amo/v/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee})
-![Mozilla Add-on Rating](https://img.shields.io/amo/rating/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee})
-![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee})
-![Mozilla Add-on Users](https://img.shields.io/amo/users/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee})
-![GitHub License](https://img.shields.io/github/license/semanticdata/text-revealer-firefox-extension)
+![Mozilla Add-on Version](https://img.shields.io/amo/v/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee}) ![Mozilla Add-on Rating](https://img.shields.io/amo/rating/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee}) ![Mozilla Add-on Downloads](https://img.shields.io/amo/dw/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee}) ![Mozilla Add-on Users](https://img.shields.io/amo/users/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee}) ![GitHub License](https://img.shields.io/github/license/semanticdata/text-revealer-firefox-extension)
 
 Reveal deeper information about highlighted text on a web page. When text is selected, a popover displays useful details about the text such as:
 

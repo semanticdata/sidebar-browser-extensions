@@ -105,7 +105,7 @@
 
 .trjs .trjs-popover {
   color: rgba(0, 0, 0, 0.87);
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-style: normal;
   z-index: 9999;
 }
@@ -121,7 +121,7 @@
 }
 
 .trjs__header {
-  font-family: "Crimson Text" !important;
+  font-family: 'Crimson Text' !important;
   font-size: 35px !important;
   font-weight: 400 !important;
   font-style: normal !important;
@@ -145,7 +145,7 @@
 }
 
 .trjs .wiki-search__header {
-  font-family: "Open Sans" !important;
+  font-family: 'Open Sans' !important;
   font-size: 14px !important;
   font-weight: bold;
 }
@@ -155,7 +155,7 @@
 }
 
 .trjs .dictionary__header {
-  font-family: "Crimson Text";
+  font-family: 'Crimson Text';
   font-size: 20px !important;
   font-weight: bold;
   margin-bottom: 5px;
@@ -164,7 +164,7 @@
 
 .trjs .dictionary__pronunciation {
   color: #aaaaaa;
-  font-family: "Open Sans";
+  font-family: 'Open Sans';
   font-size: 16px !important;
   font-style: italic;
   font-weight: normal;
@@ -291,7 +291,7 @@
 
 .trjs-toggle-container .slider:before {
   position: absolute;
-  content: "";
+  content: '';
   height: 18px;
   width: 18px;
   left: 4px;

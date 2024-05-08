@@ -1,4 +1,4 @@
-(function () {
+;(function () {
   /**
    * Initiate the script.
    */
@@ -6,23 +6,23 @@
     wikipedia: true,
     merriamWebsterDictionary: false,
     delay: 500,
-    scrollIntoView: true,
-  });
-  myTextRevealer.init();
+    scrollIntoView: true
+  })
+  myTextRevealer.init()
 
   /**
    * Apply any previously saved options to the text revealer instance.
    */
   storage.sync.get(
-    ["skin", "delay", "merriamWebsterDictionary", "maxTextCount"],
+    ['skin', 'delay', 'merriamWebsterDictionary', 'maxTextCount'],
     function (items) {
       myTextRevealer.options.merriamWebsterDictionary =
-        items.merriamWebsterDictionary || false;
-      myTextRevealer.options.delay = items.delay || 500;
-      myTextRevealer.options.skin = items.skin || "light";
-      myTextRevealer.options.maxTextCount = items.maxTextCount || 3;
+        items.merriamWebsterDictionary || false
+      myTextRevealer.options.delay = items.delay || 500
+      myTextRevealer.options.skin = items.skin || 'light'
+      myTextRevealer.options.maxTextCount = items.maxTextCount || 3
     }
-  );
+  )
 
   /**
    * Update the instance with new options from the extension settings.
@@ -30,7 +30,7 @@
    */
   storage.onChanged.addListener(function (changes, namespace) {
     for (let key in changes) {
-      myTextRevealer.options[key] = changes[key].newValue;
+      myTextRevealer.options[key] = changes[key].newValue
     }
-  });
-})();
+  })
+})()
