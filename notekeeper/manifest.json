@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "New Tab Notes",
+  "name": "Notekeeper",
   "version": "1.1.0",
   "description": "Transform your New Tab into a minimalist, auto-saving text editor.",
   "browser_specific_settings": {
@@ -19,7 +19,7 @@
     "newtab": "src/newtab.html"
   },
   "browser_action": {
-    "default_title": "New Tab Notes",
+    "default_title": "Notekeeper",
     "default_icon": {
       "48": "src/icons/48x48.png",
       "512": "src/icons/512x512.png"

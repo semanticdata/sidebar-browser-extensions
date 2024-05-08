@@ -5,7 +5,8 @@
   "description": "",
   "permissions": ["bookmarks", "storage"],
   "icons": {
-    "24": "icon-24x24.svg"
+    "24": "src/icons/24x24.png",
+    "96": "src/icons/96x96.png"
   },
   "browser_specific_settings": {
     "gecko": {
