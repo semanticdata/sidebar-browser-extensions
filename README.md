@@ -2,9 +2,7 @@
 
 > Note: This is a work-in-progress.
 
-Monorepo of my browser extensions.
-
-## Repositories Table
+This is a monorepo of my browser extensions. The aim of the monorepo is to make maintenance easier.
 
 | Extension / Source Code | Links |
 | --- | --- |

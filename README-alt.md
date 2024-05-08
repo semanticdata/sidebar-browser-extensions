@@ -51,7 +51,7 @@ Monorepo of my browser extensions.
 
 | Extension / Source Code | Links |
 | --- | --- |
-| [Brave Search](/brave-search/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| ![logo](assets/brave-96x96.png) [Brave Search](/brave-search/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | [ChatGPT in Sidebar](/chatgpt-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | [Discord in Sidebar](/discord-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | [Fastmail in Sidebar](/fastmail-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
