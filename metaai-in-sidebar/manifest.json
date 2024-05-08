@@ -41,7 +41,8 @@
   "browser_action": {
     "default_icon": {
       "16": "src/icons/16x16.png",
-      "32": "src/icons/32x32.png"
+      "32": "src/icons/32x32.png",
+      "96": "src/icons/96x96.png"
     }
   }
 }
