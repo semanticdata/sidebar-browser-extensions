@@ -1,6 +1,8 @@
 # Browser Extensions
 
-This is a work-in-progress. Monorepo of my browser extensions.
+> This is a work-in-progress.
+
+Monorepo of my browser extensions.
 
 - [Brave Search](https://github.com/semanticdata/firefox-brave-search)
 - [ChatGPT in Sidebar](https://github.com/semanticdata/firefox-chatgpt-in-sidebar)
@@ -21,17 +23,40 @@ This is a work-in-progress. Monorepo of my browser extensions.
 - [WhatsApp in Sidebar](https://github.com/semanticdata/firefox-whatsapp-in-sidebar)
 - [WhatsApp Pinned](https://github.com/semanticdata/firefox-whatsapp-pinned)
 
+## 🦊 Brave Search
+
+Adds Brave Search as a search engine option within Firefox. Also includes keyword @brave as a search shortcut.  
+Visit the [README](brave-search/README.md).
+
+## 🟩 ChatGPT in Sidebar
+
+Opens ChatGPT within the Firefox sidebar.  
+Visit the [README](chatgpt-in-sidebar/README.md).
+
+## 🟦 Discord in Sidebar
+
+Display Discord within the Firefox sidebar.  
+Visit the [README](discord-in-sidebar/README.md).
+
 ## 🔖 New Tab Bookmarks
 
-A new tab replacement for your browser. Visit the [README](new-tab-bookmarks/README.md).
+A new tab replacement for your browser.  
+Visit the [README](new-tab-bookmarks/README.md).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/new-tab-bookmarks/)
 
 ## 📝 Notekeeper
 
-An extension that transforms the New Tab into a minimalist, auto-saving text editor.  Visit the [README](notekeeper/README.md).
+An extension that transforms the New Tab into a minimalist, auto-saving text editor.
+
+Visit the [README](notekeeper/README.md).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/new-tab-bookmarks/)
+
+## Sorry, Minnesota Only
+
+Removes all states starting with "M" except Minnesota within most dropdown menus. This allows you to press "M" in your keyboard and go directly to it, instead of any other state options.  
+Visit the [README](brave-search/README.md).
 
 ## © License
 
