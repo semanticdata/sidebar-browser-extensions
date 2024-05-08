@@ -24,6 +24,7 @@ The aim of this monorepo is to make maintaining browser extensions easier. Here'
 | <img src="assets/ticktick-96x96.png" width="48" height="48"> | [TickTick Pinned](/ticktick-pinned/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | <img src="assets/whatsapp-96x96.png" width="48" height="48"> | [WhatsApp in Sidebar](/whatsapp-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | <img src="assets/whatsapp-96x96.png" width="48" height="48"> | [WhatsApp Pinned](/whatsapp-pinned/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
+| <img src="text-revealer/assets/logo-cropped.png"  height="48"> | [Text Revealer](/text-revealer/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 
 ## Repository Secrets
 

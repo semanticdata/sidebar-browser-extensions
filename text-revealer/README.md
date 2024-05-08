@@ -1,6 +1,4 @@
-<img src="assets/logo.jpg" style="align-center" />
-
-# ![text revealer logo](assets/logo.jpg)
+# ![text revealer logo](assets/logo.png)
 
 ![Mozilla Add-on Version](https://img.shields.io/amo/v/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee})
 ![Mozilla Add-on Rating](https://img.shields.io/amo/rating/{b5ca06cf-4c6e-40f6-b367-a20a6f2a15ee})
