@@ -1,0 +1,32 @@
+name: Uploaded Artifact Test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-upload-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Build web extension
+        id: web-ext-build
+        uses: kewisch/action-web-ext@v1
+        with:
+          cmd: build
+          filename: "{name}-{version}.xpi"
+          ignoreFiles: '[
+            "package.json",
+            "package-lock.json",
+            "yarn.lock",
+            ".github",
+            ".gitattributes",
+            "LICENSE",
+            "README.md"]'
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: target.xpi
+          path: ${{ steps.web-ext-build.outputs.target }}

@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "Discord in Sidebar",
+  "version": "1.3.1",
+  "description": "Displays Discord in the sidebar.",
+  "background": {
+    "scripts": ["src/background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{a16c3799-d903-44e3-b044-a032197f5ef8}",
+      "strict_min_version": "100.0"
+    }
+  },
+  "options_ui": {
+    "page": "src/options/options.html",
+    "browser_style": true
+  },
+  "sidebar_action": {
+    "default_icon": {
+      "48": "src/icons/icon1_48.png",
+      "96": "src/icons/icon1_96.png"
+    },
+    "default_title": "Discord",
+    "default_panel": "src/sidebar/panel.html"
+  },
+  "icons": {
+    "48": "src/icons/icon1_48.png",
+    "96": "src/icons/icon1_96.png"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+D"
+      },
+      "description": "Toggle the Discord sidebar."
+    }
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "src/icons/icon1_48.png",
+      "96": "src/icons/icon1_96.png"
+    }
+  }
+}

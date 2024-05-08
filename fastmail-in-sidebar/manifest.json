@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "Fastmail in Sidebar",
+  "description": "Displays Fastmail in the sidebar.",
+  "version": "1.2.2",
+  "background": {
+    "scripts": ["src/background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{3eacef21-a96d-4adb-942e-c4eb162bf00c}",
+      "strict_min_version": "100.0"
+    }
+  },
+  "options_ui": {
+    "page": "src/options/options.html",
+    "browser_style": true
+  },
+  "sidebar_action": {
+    "default_icon": {
+      "48": "src/icons/48x48.png",
+      "96": "src/icons/96x96.png"
+    },
+    "default_title": "Fastmail",
+    "default_panel": "src/sidebar/panel.html"
+  },
+  "icons": {
+    "48": "src/icons/48x48.png",
+    "96": "src/icons/96x96.png"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+G"
+      },
+      "description": "Toggle the Fastmail sidebar."
+    }
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    }
+  }
+}

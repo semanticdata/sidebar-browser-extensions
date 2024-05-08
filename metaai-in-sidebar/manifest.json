@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "Meta AI in Sidebar",
+  "version": "1.0.1",
+  "description": "Displays Meta AI in the sidebar.",
+  "background": {
+    "scripts": ["src/background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{e5430a62-c84a-4c52-9154-50e682cef035}",
+      "strict_min_version": "100.0"
+    }
+  },
+  "options_ui": {
+    "page": "src/options/options.html",
+    "browser_style": true
+  },
+  "sidebar_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    },
+    "default_title": "Meta AI in Sidebar",
+    "default_panel": "src/sidebar/panel.html"
+  },
+  "icons": {
+    "16": "src/icons/16x16.png",
+    "32": "src/icons/32x32.png"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+M"
+      },
+      "description": "Toggle the Meta AI sidebar."
+    }
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    }
+  }
+}

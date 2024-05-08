@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "Gemini in Sidebar",
+  "version": "1.0.1",
+  "description": "Displays Gemini in the sidebar.",
+  "background": {
+    "scripts": ["src/background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{6668aea4-9581-44e0-8477-5f037252ccb5}",
+      "strict_min_version": "100.0"
+    }
+  },
+  "options_ui": {
+    "page": "src/options/options.html",
+    "browser_style": true
+  },
+  "sidebar_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    },
+    "default_title": "Gemini in Sidebar",
+    "default_panel": "src/sidebar/panel.html"
+  },
+  "icons": {
+    "16": "src/icons/16x16.png",
+    "32": "src/icons/32x32.png"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+G"
+      },
+      "description": "Toggle the Gemini sidebar."
+    }
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    }
+  }
+}

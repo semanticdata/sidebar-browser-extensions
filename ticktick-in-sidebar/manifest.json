@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "name": "TickTick in Sidebar",
+  "version": "1.2.3",
+  "description": "Displays TickTick in the sidebar.",
+  "background": {
+    "scripts": ["src/background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{6930c4ab-262a-4e93-a3fa-562714cabb3f}",
+      "strict_min_version": "100.0"
+    }
+  },
+  "options_ui": {
+    "page": "src/options/options.html",
+    "browser_style": true
+  },
+  "sidebar_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    },
+    "default_title": "TickTick",
+    "default_panel": "src/sidebar/panel.html"
+  },
+  "icons": {
+    "16": "src/icons/16x16.png",
+    "32": "src/icons/32x32.png"
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+K"
+      },
+      "description": "Toggle the TickTick sidebar."
+    }
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    }
+  }
+}

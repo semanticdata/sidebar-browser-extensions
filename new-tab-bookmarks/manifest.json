@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "New Tab Bookmarks",
+  "version": "0.0.1",
+  "description": "",
+  "permissions": ["bookmarks", "storage"],
+  "icons": {
+    "24": "icon-24x24.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "newtab-bookmarks@semanticdata",
+      "strict_min_version": "100.0"
+    }
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}

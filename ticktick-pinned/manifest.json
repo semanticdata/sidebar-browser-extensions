@@ -1,0 +1,41 @@
+{
+  "manifest_version": 2,
+  "name": "TickTick Pinned",
+  "version": "1.1.3",
+  "description": "Open or go to a pinned tab with the TickTick web app.",
+  "background": {
+    "scripts": ["src/background.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{d171bf3e-5cff-4e28-b42e-4b0956d2d1b2}",
+      "strict_min_version": "100.0"
+    }
+  },
+  "author": "semanticdata",
+  "options_ui": {
+    "page": "src/options/options.html",
+    "browser_style": true
+  },
+  "icons": {
+    "16": "src/icons/16x16.png",
+    "32": "src/icons/32x32.png"
+  },
+  "permissions": ["tabs"],
+  "browser_action": {
+    "default_icon": {
+      "16": "src/icons/16x16.png",
+      "32": "src/icons/32x32.png"
+    },
+    "default_title": "Toggle pinned TickTick.",
+    "default_area": "navbar"
+  },
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Alt+Shift+5"
+      },
+      "description": "Toggle pinned TickTick."
+    }
+  }
+}
