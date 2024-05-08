@@ -2,31 +2,11 @@
 
 > Note: This is a work-in-progress.
 
-This is a monorepo of my browser extensions. The aim of the monorepo is to make maintenance easier.
+This is a monorepo[^1] of my browser extensions.
 
-<!--
-| Extension / Source Code | Links |
-| --- | --- |
-| [Brave Search](/brave-search/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [ChatGPT in Sidebar](/chatgpt-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Discord in Sidebar](/discord-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Fastmail in Sidebar](/fastmail-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Gemini in Sidebar](/gemini-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Hacker News in Sidebar](/hacker-news-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Llama Life in Sidebar](/llamalife-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Meta AI in Sidebar](/metaai-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [New Tab Bookmarks](/new-tab-bookmarks/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Notekeeper](/notekeeper/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Sorry, Minnesota Only](/sorry-minnesota-only/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [Telegram in Sidebar](/telegram-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [TickTick in Sidebar](/telegram-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [TickTick Pinned](/ticktick-pinned/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [WhatsApp in Sidebar](/whatsapp-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
-| [WhatsApp Pinned](/whatsapp-pinned/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) | -->
+The aim of this monorepo is to make maintaining browser extensions easier. Here's a breakdown of what's hosted here:
 
-## Repositories Table
-
-| Logo | Extension | Links |
+|  |  |  |
 | --- | --- | --- |
 | <img src="assets/brave-96x96.png" width="48" height="48"> | [Brave Search](/brave-search/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
 | <img src="assets/chatgpt-96x96.png" width="48" height="48"> | [ChatGPT in Sidebar](/chatgpt-in-sidebar/) | [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/brave-search-and-keyword/) |
@@ -55,3 +35,5 @@ Required for signing extensions prior releasing a new version. These can be foun
 ## © License
 
 Source code in this repository is available under the [MIT License](LICENSE).
+
+[^1]: In version-control systems, a monorepo ("mono" meaning 'single' and "repo" being short for 'repository') is a software-development strategy in which the code for a number of projects is stored in the same repository.

@@ -2,13 +2,14 @@
 
 > Note: This is a work-in-progress.
 
-Monorepo of my browser extensions.
+This is a monorepo[^1] of my browser extensions.
+
+The aim of this monorepo is to make maintaining browser extensions easier.
 
 ## Table of Contents
 
 - [Browser Extensions](#browser-extensions)
   - [Table of Contents](#table-of-contents)
-  - [Repositories Table](#repositories-table)
   - [🦊 Brave Search](#-brave-search)
   - [🟩 ChatGPT in Sidebar](#-chatgpt-in-sidebar)
   - [🟦 Discord in Sidebar](#-discord-in-sidebar)
@@ -46,8 +47,6 @@ Monorepo of my browser extensions.
 - [TickTick Pinned](https://github.com/semanticdata/firefox-ticktick-pinned)
 - [WhatsApp in Sidebar](https://github.com/semanticdata/firefox-whatsapp-in-sidebar)
 - [WhatsApp Pinned](https://github.com/semanticdata/firefox-whatsapp-pinned) -->
-
-## Repositories Table
 
 | Logo | Extension | Links |
 | --- | --- | --- |
@@ -206,3 +205,5 @@ Required for signing extensions prior releasing a new version. These can be foun
 ## © License
 
 Source code in this repository is available under the [MIT License](LICENSE).
+
+[^1]: In version-control systems, a monorepo ("mono" meaning 'single' and "repo" being short for 'repository') is a software-development strategy in which the code for a number of projects is stored in the same repository.
