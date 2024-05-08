@@ -1,4 +1,4 @@
-# ![logo](src/icons/icon1_48.png) Discord in Sidebar
+# ![discord logo](src/icons/48x48.png) Discord in Sidebar
 
 ![Mozilla Add-on](https://img.shields.io/amo/v/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![Add-on rating](https://img.shields.io/amo/rating/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![Add-on downloads](https://img.shields.io/amo/dw/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![Add-on users](https://img.shields.io/amo/users/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![License](https://img.shields.io/github/license/semanticdata/firefox-discord-in-sidebar)
 

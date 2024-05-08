@@ -18,15 +18,15 @@
   },
   "sidebar_action": {
     "default_icon": {
-      "48": "src/icons/icon1_48.png",
-      "96": "src/icons/icon1_96.png"
+      "48": "src/icons/48x48.png",
+      "96": "src/icons/96x96.png"
     },
     "default_title": "Discord",
     "default_panel": "src/sidebar/panel.html"
   },
   "icons": {
-    "48": "src/icons/icon1_48.png",
-    "96": "src/icons/icon1_96.png"
+    "48": "src/icons/48x48.png",
+    "96": "src/icons/96x96.png"
   },
   "commands": {
     "_execute_sidebar_action": {
@@ -38,8 +38,8 @@
   },
   "browser_action": {
     "default_icon": {
-      "48": "src/icons/icon1_48.png",
-      "96": "src/icons/icon1_96.png"
+      "48": "src/icons/48x48.png",
+      "96": "src/icons/96x96.png"
     }
   }
 }
