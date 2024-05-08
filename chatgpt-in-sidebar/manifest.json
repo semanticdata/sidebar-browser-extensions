@@ -20,6 +20,7 @@
     "default_icon": {
       "16": "src/icons/chatgpt-16x16.png",
       "32": "src/icons/chatgpt-32x32.png",
+      "96": "src/icons/chatgpt-96x96.png",
       "192": "src/icons/chatgpt-192x192.png"
     },
     "default_title": "ChatGPT",
@@ -27,7 +28,9 @@
   },
   "icons": {
     "16": "src/icons/chatgpt-16x16.png",
-    "32": "src/icons/chatgpt-32x32.png"
+    "32": "src/icons/chatgpt-32x32.png",
+    "96": "src/icons/chatgpt-96x96.png",
+    "192": "src/icons/chatgpt-192x192.png"
   },
   "commands": {
     "_execute_sidebar_action": {
@@ -40,7 +43,9 @@
   "browser_action": {
     "default_icon": {
       "16": "src/icons/chatgpt-16x16.png",
-      "32": "src/icons/chatgpt-32x32.png"
+      "32": "src/icons/chatgpt-32x32.png",
+      "96": "src/icons/chatgpt-96x96.png",
+      "192": "src/icons/chatgpt-192x192.png"
     }
   }
 }
