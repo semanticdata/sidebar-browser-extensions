@@ -1,10 +1,6 @@
 # ![logo](src/icons/icon1_48.png) Discord in Sidebar
 
-![Mozilla Add-on](https://img.shields.io/amo/v/{a16c3799-d903-44e3-b044-a032197f5ef8})
-![Add-on rating](https://img.shields.io/amo/rating/{a16c3799-d903-44e3-b044-a032197f5ef8})
-![Add-on downloads](https://img.shields.io/amo/dw/{a16c3799-d903-44e3-b044-a032197f5ef8})
-![Add-on users](https://img.shields.io/amo/users/{a16c3799-d903-44e3-b044-a032197f5ef8})
-![License](https://img.shields.io/github/license/semanticdata/firefox-discord-in-sidebar)
+![Mozilla Add-on](https://img.shields.io/amo/v/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![Add-on rating](https://img.shields.io/amo/rating/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![Add-on downloads](https://img.shields.io/amo/dw/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![Add-on users](https://img.shields.io/amo/users/{a16c3799-d903-44e3-b044-a032197f5ef8}) ![License](https://img.shields.io/github/license/semanticdata/firefox-discord-in-sidebar)
 
 A Firefox extension to display Discord within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Discord web app. It also adds a shortcut, and a button toggle within the toolbar.
 
@@ -40,7 +36,7 @@ The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sideba
 
 ### 📝 Notes
 
-- You can find the canonical publication for the guide on my [Blog](https://miguelpimentel.do/unlock-firefox-sidebar/).  
+- You can find the canonical publication for the guide on my [Blog](https://miguelpimentel.do/unlock-firefox-sidebar/).
 - I also have instructions in Spanish in this GitHub [Gist](https://gist.github.com/semanticdata/ee0bca4f3617241aa98da114653c0b08#file-instrucciones-md).
 
 ## ⚠ Disclaimer

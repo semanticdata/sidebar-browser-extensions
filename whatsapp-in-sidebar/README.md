@@ -1,10 +1,6 @@
 # ![logo](src/icons/48x48.png) WhatsApp in Sidebar
 
-![Mozilla Add-on](https://img.shields.io/amo/v/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a})
-![Add-on rating](https://img.shields.io/amo/rating/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a})
-![Add-on downloads](https://img.shields.io/amo/dw/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a})
-![Add-on users](https://img.shields.io/amo/users/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a})
-![License](https://img.shields.io/github/license/semanticdata/firefox-whatsapp-in-sidebar)
+![Mozilla Add-on](https://img.shields.io/amo/v/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}) ![Add-on rating](https://img.shields.io/amo/rating/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}) ![Add-on downloads](https://img.shields.io/amo/dw/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}) ![Add-on users](https://img.shields.io/amo/users/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}) ![License](https://img.shields.io/github/license/semanticdata/firefox-whatsapp-in-sidebar)
 
 A Firefox extension to open WhatsApp Web within the Firefox sidebar. This extension adds a new section to the sidebar which contains the WhatsApp web app. It also adds a shortcut, and a button toggle within the toolbar.
 
@@ -40,7 +36,7 @@ The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sideba
 
 ### Notes
 
-- You can find the canonical publication for the guide on my [Blog](https://miguelpimentel.do/unlock-firefox-sidebar/).  
+- You can find the canonical publication for the guide on my [Blog](https://miguelpimentel.do/unlock-firefox-sidebar/).
 - I also have instructions in Spanish in this GitHub [Gist](https://gist.github.com/semanticdata/ee0bca4f3617241aa98da114653c0b08#file-instrucciones-md).
 
 ## ⚠ Disclaimer

@@ -1,10 +1,6 @@
 # ![logo](src/icons/48x48.png) Fastmail in Sidebar
 
-![Mozilla Add-on](https://img.shields.io/amo/v/{3eacef21-a96d-4adb-942e-c4eb162bf00c})
-![Add-on rating](https://img.shields.io/amo/rating/{3eacef21-a96d-4adb-942e-c4eb162bf00c})
-![Add-on downloads](https://img.shields.io/amo/dw/{3eacef21-a96d-4adb-942e-c4eb162bf00c})
-![Add-on users](https://img.shields.io/amo/users/{3eacef21-a96d-4adb-942e-c4eb162bf00c})
-![License](https://img.shields.io/github/license/semanticdata/firefox-fastmail-in-sidebar)
+![Mozilla Add-on](https://img.shields.io/amo/v/{3eacef21-a96d-4adb-942e-c4eb162bf00c}) ![Add-on rating](https://img.shields.io/amo/rating/{3eacef21-a96d-4adb-942e-c4eb162bf00c}) ![Add-on downloads](https://img.shields.io/amo/dw/{3eacef21-a96d-4adb-942e-c4eb162bf00c}) ![Add-on users](https://img.shields.io/amo/users/{3eacef21-a96d-4adb-942e-c4eb162bf00c}) ![License](https://img.shields.io/github/license/semanticdata/firefox-fastmail-in-sidebar)
 
 A Firefox extension to display Fastmail within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Fastmail website. It also adds a shortcut, and a button toggle within the toolbar.
 
@@ -40,7 +36,7 @@ The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sideba
 
 ### 📝 Notes
 
-- You can find the canonical publication for the guide on my [Blog](https://miguelpimentel.do/unlock-firefox-sidebar/).  
+- You can find the canonical publication for the guide on my [Blog](https://miguelpimentel.do/unlock-firefox-sidebar/).
 - I also have instructions in Spanish in this GitHub [Gist](https://gist.github.com/semanticdata/ee0bca4f3617241aa98da114653c0b08#file-instrucciones-md).
 
 ## ⚠ Disclaimer

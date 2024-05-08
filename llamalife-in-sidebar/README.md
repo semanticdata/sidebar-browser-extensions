@@ -1,10 +1,6 @@
 # ![logo](https://llamalife.co/favicon.png) Llama Life in Sidebar
 
-![Mozilla Add-on](https://img.shields.io/amo/v/{298b10ce-2211-47d0-aad6-107b8a733fc5})
-![Add-on rating](https://img.shields.io/amo/rating/{298b10ce-2211-47d0-aad6-107b8a733fc5})
-![Add-on downloads](https://img.shields.io/amo/dw/{298b10ce-2211-47d0-aad6-107b8a733fc5})
-![Add-on users](https://img.shields.io/amo/users/{298b10ce-2211-47d0-aad6-107b8a733fc5})
-![License](https://img.shields.io/github/license/semanticdata/firefox-llamalife-in-sidebar)
+![Mozilla Add-on](https://img.shields.io/amo/v/{298b10ce-2211-47d0-aad6-107b8a733fc5}) ![Add-on rating](https://img.shields.io/amo/rating/{298b10ce-2211-47d0-aad6-107b8a733fc5}) ![Add-on downloads](https://img.shields.io/amo/dw/{298b10ce-2211-47d0-aad6-107b8a733fc5}) ![Add-on users](https://img.shields.io/amo/users/{298b10ce-2211-47d0-aad6-107b8a733fc5}) ![License](https://img.shields.io/github/license/semanticdata/firefox-llamalife-in-sidebar)
 
 A Firefox extension to display Llama Life within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Llama Life web app. It also adds a shortcut, and a button toggle within the toolbar.
 
@@ -17,7 +13,7 @@ A Firefox extension to display Llama Life within the Firefox sidebar. This exten
 
 ## How to Unlock Firefox Sidebar Width
 
-The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
+The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
 
 ## ⚠ Disclaimer
 

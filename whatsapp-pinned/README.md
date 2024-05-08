@@ -1,10 +1,6 @@
 # ![logo](src/icons/48x48.png) WhatsApp Pinned
 
-![Mozilla Add-on](https://img.shields.io/amo/v/{f2d56336-0f16-4870-bf64-84b3fd97c9c0})
-![Add-on rating](https://img.shields.io/amo/rating/{f2d56336-0f16-4870-bf64-84b3fd97c9c0})
-![Add-on downloads](https://img.shields.io/amo/dw/{f2d56336-0f16-4870-bf64-84b3fd97c9c0})
-![Add-on users](https://img.shields.io/amo/users/{f2d56336-0f16-4870-bf64-84b3fd97c9c0})
-![License](https://img.shields.io/github/license/semanticdata/firefox-whatsapp-pinned)
+![Mozilla Add-on](https://img.shields.io/amo/v/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}) ![Add-on rating](https://img.shields.io/amo/rating/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}) ![Add-on downloads](https://img.shields.io/amo/dw/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}) ![Add-on users](https://img.shields.io/amo/users/{f2d56336-0f16-4870-bf64-84b3fd97c9c0}) ![License](https://img.shields.io/github/license/semanticdata/firefox-whatsapp-pinned)
 
 A Firefox extension to open or toggle a pinned tab with WhatsApp Web within it. This extension also adds a shortcut, and a button toggle within the toolbar.
 
