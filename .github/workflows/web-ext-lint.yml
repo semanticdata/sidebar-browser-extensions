@@ -1,0 +1,23 @@
+name: Lint (web-ext)
+
+# on:
+#   push:
+#     tags:
+#       - "v*.*.*"
+#   release:
+#     types: [published]
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint web-ext
+        uses: kewisch/action-web-ext@v1
+        with:
+          cmd: lint
+          source: src
+          channel: listed

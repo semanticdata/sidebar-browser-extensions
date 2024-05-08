@@ -8,6 +8,7 @@ Monorepo of my browser extensions.
 
 - [Browser Extensions](#browser-extensions)
   - [Table of Contents](#table-of-contents)
+  - [Repository Secrets](#repository-secrets)
   - [Previous Repositories](#previous-repositories)
   - [🦊 Brave Search](#-brave-search)
   - [🟩 ChatGPT in Sidebar](#-chatgpt-in-sidebar)
@@ -26,6 +27,13 @@ Monorepo of my browser extensions.
   - [🟩 WhatsApp in Sidebar](#-whatsapp-in-sidebar)
   - [🟢 WhatsApp Pinned](#-whatsapp-pinned)
   - [© License](#-license)
+
+## Repository Secrets
+
+Required for signing extensions prior releasing a new version. These can be found here: [Manage API Keys](https://addons.mozilla.org/en-US/developers/addon/api/key/).
+
+- JWT Issuer: `FIREFOX_JWT_ISSUER`
+- JWT Secret: `FIREFOX_JWT_SECRET`
 
 ## Previous Repositories
 
