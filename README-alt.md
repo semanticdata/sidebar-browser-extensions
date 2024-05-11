@@ -1,4 +1,4 @@
-# Browser Extensions
+# 🔌 Browser Extensions
 
 > Note: This is a work-in-progress.
 
@@ -6,31 +6,7 @@ This is a monorepo[^1] of my browser extensions.
 
 The aim of this monorepo is to make maintaining browser extensions easier.
 
-## Table of Contents
-
-- [Browser Extensions](#browser-extensions)
-  - [Table of Contents](#table-of-contents)
-  - [Previous Repositories](#previous-repositories)
-  - [🦊 Brave Search](#-brave-search)
-  - [🟩 ChatGPT in Sidebar](#-chatgpt-in-sidebar)
-  - [🟦 Discord in Sidebar](#-discord-in-sidebar)
-  - [🔵 Fastmail in Sidebar](#-fastmail-in-sidebar)
-  - [🌟 Gemini in Sidebar](#-gemini-in-sidebar)
-  - [🟧 Hacker News in Sidebar](#-hacker-news-in-sidebar)
-  - [🦙 Llama Life in Sidebar](#-llama-life-in-sidebar)
-  - [🟦 Meta AI in Sidebar](#-meta-ai-in-sidebar)
-  - [🔖 New Tab Bookmarks](#-new-tab-bookmarks)
-  - [📝 Notekeeper](#-notekeeper)
-  - [🟪 Sorry, Minnesota Only](#-sorry-minnesota-only)
-  - [🔷 Telegram in Sidebar](#-telegram-in-sidebar)
-  - [🟫 TickTick in Sidebar](#-ticktick-in-sidebar)
-  - [🟤 TickTick Pinned](#-ticktick-pinned)
-  - [🟩 WhatsApp in Sidebar](#-whatsapp-in-sidebar)
-  - [🟢 WhatsApp Pinned](#-whatsapp-pinned)
-  - [Repository Secrets](#repository-secrets)
-  - [© License](#-license)
-
-## Previous Repositories
+## ⏪ Previous Repositories
 
 - [Brave Search](https://github.com/semanticdata/firefox-brave-search)
 - [ChatGPT in Sidebar](https://github.com/semanticdata/firefox-chatgpt-in-sidebar)
@@ -177,7 +153,7 @@ Browse the [source code](ticktick-pinned/).
 
 [![get the addon](get-addon-firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-pinned/)
 
-## Repository Secrets
+## 🔐 Repository Secrets
 
 Required for signing extensions prior releasing a new version. These can be found here: [Manage API Keys](https://addons.mozilla.org/en-US/developers/addon/api/key/).
 
