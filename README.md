@@ -8,6 +8,10 @@ This monorepo[^1] contains the source code for my browser extensions. It aims to
 
 [![banner](assets/banners/telegram-sidebar-2.png)](telegram-in-sidebar) [![banner](assets/banners/fastmail-sidebar-2.png)](fastmail-in-sidebar) [![banner](assets/banners/newtab-bookmarks-2.png)](new-tab-bookmarks) [![banner](assets/banners/notekeeper-1.png)](notekeeper) [![banner](assets/banners/sorry-mn-only-2.png)](sorry-minnesota-only)
 
+## 💜 Acknowledgements
+
+We use [GitHub Profile Header Generator](https://github.com/leviarista) to create the extension badges featured here. Thank you [Leví Arista](https://github.com/leviarista) for creating the project.
+
 ## © License
 
 Source code in this repository is available under the [MIT License](LICENSE).
