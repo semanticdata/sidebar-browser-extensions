@@ -21,10 +21,11 @@ This monorepo[^1] contains the source code for my browser extensions. It aims to
 [![banner](assets/banners/newtab-bookmarks-2.png)](new-tab-bookmarks)
 [![banner](assets/banners/notekeeper-1.png)](notekeeper)
 [![banner](assets/banners/sorry-mn-only-2.png)](sorry-minnesota-only)
+<!-- [![banner](assets/banners/todoist-1.png)](todoist-in-sidebar) -->
 
-## 💜 Acknowledgements
+## 💜 Attributions
 
-We use [GitHub Profile Header Generator](https://github.com/leviarista) to create the extension badges featured here. Thank you [Leví Arista](https://github.com/leviarista) for creating the project.
+We use [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) to create the extension badges featured here. Thank you [Leví Arista](https://github.com/leviarista) for creating the project.
 
 ## © License
 
