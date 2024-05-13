@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "New Tab Startpage",
+  "version": "0.0.1",
+  "description": "",
+  "icons": {
+    "24": "24x24.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "newtab-startpage@semanticdata",
+      "strict_min_version": "100.0"
+    }
+  },
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
