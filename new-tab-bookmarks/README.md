@@ -51,4 +51,4 @@ This extension is based on [hello, friend](https://github.com/jaywick/hello-frie
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

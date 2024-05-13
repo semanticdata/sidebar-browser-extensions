@@ -1,16 +1,16 @@
 > ⚠ This Firefox extension is a work-in-progress. It currently does not work properly. Please keep that in mind if you decide to use it.
 
-# ![logo](src/icons/32x32.png) Gemini in Sidebar
+# ![logo](src/icons/32x32.png) Todoist in Sidebar
 
 ![Mozilla Add-on](https://img.shields.io/amo/v/{e5430a62-c84a-4c52-9154-50e682cef035}) ![Add-on rating](https://img.shields.io/amo/rating/{e5430a62-c84a-4c52-9154-50e682cef035}) ![Add-on downloads](https://img.shields.io/amo/dw/{e5430a62-c84a-4c52-9154-50e682cef035}) ![Add-on users](https://img.shields.io/amo/users/{e5430a62-c84a-4c52-9154-50e682cef035}) ![License](https://img.shields.io/github/license/semanticdata/firefox-metaai-in-sidebar)
 
-A Firefox extension to display Gemini within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Gemini web app. It also adds a shortcut, and a button toggle within the toolbar.
+A Firefox extension to display Todoist within the Firefox sidebar. This extension adds a new section to the sidebar which contains the Todoist web app. It also adds a shortcut, and a button toggle within the toolbar.
 
 <!-- [![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/metaai-in-sidebar/) -->
 
 ## Usage
 
-1. Toggle the sidebar by pressing _`Alt+Shift+G`_. This shortcut can be changed by going to _`Add-ons` → `Gemini in Sidebar` → `Options`_.
+1. Toggle the sidebar by pressing _`Alt+Shift+T`_. This shortcut can be changed by going to _`Add-ons` → `Todoist in Sidebar` → `Options`_.
 2. If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.
 
 ## How to Unlock Firefox Sidebar Width
@@ -43,7 +43,7 @@ The sidebar's width is _locked by default_ in Firefox. Unfortunately, the sideba
 
 ## ⚠ Disclaimer
 
-This extension is an independent project, has no relationship, and is not affiliated to Gemini or Google in any way. This extension is primarily for personal use; a personal project if you will. This add-on _only_ launches their web app in the sidebar.
+This extension is an independent project, has no relationship, and is not affiliated to Todoist or Doist, Inc. in any way. This extension is primarily for personal use; a personal project if you will. This add-on _only_ launches their web app in the sidebar.
 
 ## 💜 Acknowledgments
 
@@ -51,4 +51,4 @@ Icons used for all my extensions are part of [UXWing](https://uxwing.com/)'s col
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

@@ -26,4 +26,4 @@ Thanks [LogoMakr](LogoMakr.com/app) for providing the logo and special thanks to
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

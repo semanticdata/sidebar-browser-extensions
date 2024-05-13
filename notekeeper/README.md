@@ -37,4 +37,4 @@ Icons used for all my extensions are part of <a href="https://uxwing.com/">UXWin
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

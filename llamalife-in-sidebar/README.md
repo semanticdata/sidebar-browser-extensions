@@ -21,4 +21,4 @@ This Add-on is primarily for personal use; a personal project if you will. I'm j
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

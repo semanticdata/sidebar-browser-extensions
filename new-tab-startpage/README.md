@@ -57,4 +57,4 @@ This extension is based on [Better New Tab](https://github.com/M4hbod/Better-New
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

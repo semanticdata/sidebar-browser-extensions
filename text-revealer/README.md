@@ -34,4 +34,4 @@ This is the Firefox port of [Text Revealer](https://github.com/jamigibbs/text-re
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

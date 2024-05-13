@@ -49,4 +49,4 @@ Icons used for all my extensions are part of [UXWing](https://uxwing.com/)'s col
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).

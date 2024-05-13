@@ -21,4 +21,4 @@ After some research, it appears Mozilla has placed limitations on using `chrome_
 
 ## © License
 
-Source code in this repository is available under the [MIT License](LICENSE).
+Source code in this repository is available under the [MIT License](../LICENSE).
