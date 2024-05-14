@@ -2,11 +2,11 @@
   "manifest_version": 2,
   "name": "New Tab Bookmarks",
   "version": "0.0.1",
-  "description": "",
+  "description": "New tab filled with your bookmarks.",
   "permissions": ["bookmarks", "storage"],
   "icons": {
-    "24": "src/icons/24x24.png",
-    "96": "src/icons/96x96.png"
+    "48": "src/icon.svg",
+    "96": "src/icon.svg"
   },
   "browser_specific_settings": {
     "gecko": {

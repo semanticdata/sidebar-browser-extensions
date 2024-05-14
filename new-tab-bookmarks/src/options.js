@@ -2,7 +2,7 @@ const options = {
   TITLE: 'New Tab Bookmarks',
   ROOT_FOLDER: /(bookmarks (tool)?bar|favou?rites bar)/i,
   TITLE_COLOR: '#4d4f68',
-  BACKGROUND: '#282936',
+  BACKGROUND: '#1e1e2e',
   SEPARATORS: ['-', ''],
   COLOR_THEME: [
     '#ea51b2',
