@@ -1,8 +1,6 @@
-# 🔌 Browser Extensions
+# 🔌 Sidebar Browser Extensions
 
-> ⚠ Note: this is a work-in-progress.
-
-This monorepo[^1] contains the source code for my browser extensions. It aims to make maintenance easier.
+This monorepo[^1] contains the source code for my sidebar browser extensions. It aims to make maintenance easier.
 
 [![banner](assets/banners/chatgpt-banner-1.png)](chatgpt-in-sidebar)
 [![banner](assets/banners/discord-banner-2.png)](discord-in-sidebar)
@@ -14,11 +12,6 @@ This monorepo[^1] contains the source code for my browser extensions. It aims to
 [![banner](assets/banners/whatsapp-sidebar-2.png)](whatsapp-in-sidebar)
 [![banner](assets/banners/telegram-sidebar-2.png)](telegram-in-sidebar)
 [![banner](assets/banners/fastmail-sidebar-2.png)](fastmail-in-sidebar)
-
-[![banner](assets/banners/ticktick-pinned-2.png)](ticktick-pinned)
-[![banner](assets/banners/whatsapp-pinned-1.png)](whatsapp-pinned)
-
-[![banner](assets/banners/newtab-bookmarks-2.png)](new-tab-bookmarks)
 
 ## 💜 Attributions
 
